@@ -1,6 +1,6 @@
 ﻿# Automato Theme
 
-An elegant and futuristic theme inspired by the Nier: Automata game.
+An theme inspired by the Nier: Automata game writen in Flutter Dart.
 Developed for windows sized applications, not for mobile since it got not responsive dialogs.
 
 # Features
