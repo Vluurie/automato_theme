@@ -5,7 +5,8 @@ Developed for windows sized applications, not for mobile since it got not respon
 
 # Features
 
-For a live preview, you can check out: https://automato-theme-example.netlify.app/
+![grafik](https://github.com/user-attachments/assets/9d31e67e-c3ca-41a5-b972-a4f7c15a2612)
+
 
 # Featuring:
 
