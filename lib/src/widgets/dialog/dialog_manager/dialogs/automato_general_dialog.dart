@@ -35,7 +35,7 @@ void showAutomatoDialog({
 }) {
   showGeneralDialog(
     context: context,
-    barrierDismissible: true,
+    barrierDismissible: false,
     barrierLabel: MaterialLocalizations.of(context).modalBarrierDismissLabel,
     barrierColor: AutomatoThemeColors.transparentColor(ref),
     transitionDuration: const Duration(milliseconds: 300),
