@@ -14,6 +14,7 @@ import 'package:automato_theme/src/themes/colors/retro_theme_colors.dart';
 import 'package:automato_theme/src/themes/colors/steampunk_theme_colors.dart';
 import 'package:automato_theme/src/themes/colors/sunset_theme_colors.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_riverpod/legacy.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 /// The AutomatoThemeNotifier is responsible for managing and switching themes
